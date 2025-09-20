@@ -1,3 +1,3 @@
-# Site en HTML-CSS
+# Goofy-Website
 
-Un petit site bien Goofy fait en 1h30 en Informatique en étude sup :/
+Quick and silly HTML/CSS site created during class practice.
